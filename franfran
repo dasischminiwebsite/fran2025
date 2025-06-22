@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Dein Geschenk</title>
+    <style>
+        body {
+            background-color: #F3E5AB; /* Vanillegelb */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .text {
+            margin-top: 20px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dein Geschenk-Gutschein</h1>
+    <div>
+    <!-- YouTube Video Embed Code -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1zEIuTPho34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="text">
+        <p>F & E</p>
+        <p>20. November</p>
+        <p>Hallenstadion Zürich</p>
+        <p>&#128153;&#128154;&#128155;&#128156;&#128157;</p>
+    </div>
+</body>
+</html>
 
